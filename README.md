@@ -1,9 +1,15 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=180&text=RimDoRim&fontSize=50&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%">
 </div>
 
-  
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RimDoRim&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
 <br>
   
 ## 🎓 Experience & Activity
@@ -18,7 +24,7 @@
   
 | 기간 | 내용 |
 | --- | --- |
-| 2025.08 ~ 2025.12 | **지속가능한 관광을 위한 혼잡도 분석**  (`Python`, `Pandas`) |
+| 2025.08 ~ 2025.12 | **지속가능한 관광을 위한 혼잡도 분석** <br> 시계열 데이터(Time-Series) 기반 방문객 예측 (`Python`, `Pandas`) |
 
 <br>
 
@@ -37,6 +43,7 @@
 <p align="center"> 📖 I'm interested in </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>&nbsp;
 
 </p>
@@ -52,10 +59,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 </p>
 
+
+
 <br>
  
 <h3 align="center">Contact me</h3>
 
 <p align="center">
+  <!-- Gmail -->
   <a href="mailto:grboy0722@pusan.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=grboy0722@pusan.ac.kr"/></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ghirim-lee-1a6703227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
