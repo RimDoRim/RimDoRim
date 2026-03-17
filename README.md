@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=180&text=RimDoRim&fontSize=50&fontColor=ffffff&stroke=ffffff&strokeWidth=2" width="100%">
 </div>
 
+test 
 
 <br>
 
