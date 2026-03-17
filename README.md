@@ -24,7 +24,7 @@
   
 | 기간 | 내용 |
 | --- | --- |
-| 2025.08 ~ 2025.12 | **지속가능한 관광을 위한 혼잡도 분석** <br> 시계열 데이터(Time Series) 기반 방문객 예측 (`Python`, `Pandas` , `Scikit_Learn`) |
+| 2025.08 ~ 2025.12 | **지속가능한 관광을 위한 혼잡도 분석** <br> Time Series 기반 방문객 예측 (`Python`, `Pandas` , `Scikit_Learn`) |
 
 <br>
 
