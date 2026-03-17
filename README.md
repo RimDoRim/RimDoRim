@@ -12,7 +12,7 @@
 
 <br>
   
-## 🎓 Experience & Activity
+## 🎓 Experience & Activities
   
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
@@ -24,15 +24,15 @@
   
 | 기간 | 내용 |
 | --- | --- |
-| 2025.08 ~ 2025.12 | **지속가능한 관광을 위한 혼잡도 분석** <br> 시계열 데이터(Time-Series) 기반 방문객 예측 (`Python`, `Pandas`) |
+| 2025.08 ~ 2025.12 | **지속가능한 관광을 위한 혼잡도 분석** <br> 시계열 데이터(Time Series) 기반 방문객 예측 (`Python`, `Pandas` , `Scikit_Learn`) |
 
 <br>
 
-## 🪪 Certification
+## 🪪 Certifications
   
 | 취득일 | 이름 | 발급처|
 | --- | --- | --- |
-  | 2022.02|OPIC IM3| ACTFL|
+  | 2022.02|OPic IM3| ACTFL|
   
 <br>
 
